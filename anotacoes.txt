@@ -1,0 +1,13 @@
+Variáveis = nome para o espaço de memoria para armazenar as infromações
+
+3 formas de criar variáveis em JS:
+- var = em desuso
+- let = permite alterar o valor
+- const = torna a variável constante, não permite alterar o valor (mais utilizada)
+
+Funções = é um trecho de código que só é executado quando chamado.
+
+DOM = a arvore os elementos do site.
+
+
+
